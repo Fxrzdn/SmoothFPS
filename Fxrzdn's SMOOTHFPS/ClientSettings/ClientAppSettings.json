@@ -1,5 +1,4 @@
 {
-"DFIntTaskSchedulerTargetFps": 300,
-"DFIntTaskSchedulerTargetFps": 500,
+"DFIntTaskSchedulerTargetFps": 1000,
 "FIntSSAOMipLevels": 0,
 }
